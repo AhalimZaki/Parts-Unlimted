@@ -2,7 +2,7 @@
 
 - [Project Description](#ProjectDescription)
 - [Services used in the project](#Servicesusedintheproject)
-- [E2E walk-through: CI](#E2Ewalk-through:CI)
+- [E2E walk-through: CI](#e2e-walk-through-ci)
 	- [Dev environment:](#Devenvironment:)
 	- [Creating the DB connection for each environment :](#CreatingtheDBconnectionforeachenvironment:)
 	- [Starting the Parts Unlimted CD and assigning where is the Artifact :](#StartingthePartsUnlimtedCDandassigningwhereistheArtifact:)
