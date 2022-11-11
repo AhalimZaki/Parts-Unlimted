@@ -9,7 +9,7 @@
 - [E2E walk-through: CD](#e2e-walk-through-cd)
 	- [A glimpse into the deployment stage work in progress.](#Aglimpseintothedeploymentstageworkinprogress.)
 	- [We Have successfully deployed our website into the cloud provider.](#WeHavescuessfulydeployedourwebsiteintothecloudprovider)
-	- [reparing the other deployment stages and conditional approval for the production environment.](#Preparingtheotherdeploymentstagesandconditionalapprovalforproductionenvironment.)
+	- [preparing the other deployment stages and conditional approval for the production environment.](#Preparingtheotherdeploymentstagesandconditionalapprovalforproductionenvironment.)
 	- [We can see that our dev-env and qa-env already live and the prod still waiting for my approval on the cd to prevent Mistakes , errors and bugs from reaching the main production environment.](#Wecanseethatourdev-envandqa-envalreadyliveandtheprodstillwaitingformyapprovalonthecdtopreventMistakeserrorsandbugsfromreachingthemainproductionenvironment.)
 	- [I navigated back into Azure DevOps platform and give the approval for deployment.](#InavigatedbackintoAzureDevOpsplatformandgivetheapprovalfordeployment.)
 	- [We Can see after clicking the approvel we can see that we our final stage already launched and live.](#WeCanseeafterclickingtheapprovelwecanseethatweourfinalstagealreadylaunchedandlive.)
